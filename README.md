@@ -1,2 +1,4 @@
 # oefening-workshop
-oefening om te testen
+Oefening om te testen
+
+We kijken hoe aanpassingen bijgehouden worden. 
